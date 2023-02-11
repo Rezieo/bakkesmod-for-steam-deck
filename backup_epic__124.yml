@@ -1,0 +1,129 @@
+Arch: win64
+Creation_Date: '2023-01-21 22:07:29.306535'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-2.0-1-196fefe
+Environment: Custom
+Environment_Variables: {}
+External_Programs:
+    14e1e1cb-f7a0-47fd-a804-248f753895b5:
+        arguments: -opengl -SkipBuildPatchPrereq -com.epicgames.launcher://apps/Sugar?action=launch&silent=true
+        dxvk: true
+        dxvk_nvapi: false
+        executable: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+        folder: /home/deck/.var/app/com.usebottles.bottles/data/bottles/bottles/epic/drive_c/Program
+            Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32
+        fsr: false
+        icon: com.usebottles.bottles-program
+        id: 14e1e1cb-f7a0-47fd-a804-248f753895b5
+        name: rocketleague
+        path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+        pulseaudio_latency: false
+        virtual_desktop: false
+        vkd3d: false
+    1952c350-9637-4eb6-9aef-9610703a59e9:
+        arguments: ''
+        dxvk: true
+        dxvk_nvapi: false
+        executable: BakkesMod.exe
+        folder: /home/deck/.var/app/com.usebottles.bottles/data/bottles/bottles/epic/drive_c/users/steamuser/AppData/Roaming/bakkesmod/bakkesmod
+        fsr: false
+        icon: com.usebottles.bottles-program
+        id: 1952c350-9637-4eb6-9aef-9610703a59e9
+        name: BakkesMod
+        path: /home/deck/.var/app/com.usebottles.bottles/data/bottles/bottles/epic/drive_c/users/steamuser/AppData/Roaming/bakkesmod/bakkesmod/BakkesMod.exe
+        pulseaudio_latency: false
+        removed: null
+        script: null
+        virtual_desktop: false
+        vkd3d: false
+    8ed0c1b7-3b9a-4958-8290-a34e9f998905:
+        arguments: -opengl -SkipBuildPatchPrereq
+        executable: EpicGamesLauncher.exe
+        id: 8ed0c1b7-3b9a-4958-8290-a34e9f998905
+        name: Epic Games Store
+        path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+Installed_Dependencies:
+- d3dx9
+- msls31
+- riched20
+- andale32
+- arial32
+- arialb32
+- comic32
+- courie32
+- georgi32
+- impact32
+- tahoma32
+- times32
+- trebuc32
+- verdan32
+- webdin32
+- allfonts
+- d3dcompiler_43
+- d3dcompiler_47
+- vcredist2015
+- vcredist2019
+Language: sys
+LatencyFleX: latencyflex-v0.1.1
+NVAPI: dxvk-nvapi-v0.6-1-0827efb
+Name: epic__124
+Parameters:
+    custom_dpi: 96
+    decorated: true
+    discrete_gpu: false
+    dxvk: true
+    dxvk_nvapi: false
+    fixme_logs: false
+    fsr: false
+    fsr_quality_mode: ultra
+    fsr_sharpening_strength: 2
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: false
+    mangohud: false
+    mouse_warp: true
+    obsvkc: false
+    pulseaudio_latency: false
+    renderer: gl
+    sandbox: false
+    sync: fsync
+    take_focus: false
+    use_be_runtime: true
+    use_eac_runtime: true
+    use_runtime: false
+    use_steam_runtime: false
+    versioning_automatic: false
+    versioning_compression: false
+    versioning_exclusion_patterns: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: true
+    vmtouch: true
+    vmtouch_cache_cwd: false
+Path: epic__124
+Runner: Proton-7.3-GE-1
+Sandbox:
+    share_net: true
+    share_sound: true
+State: 0
+Uninstallers: {}
+Update_Date: '2023-02-11 03:45:26.100200'
+VKD3D: vkd3d-proton-2.8
+Versioning: false
+Versioning_Exclusion_Patterns: []
+Windows: win10
+WorkingDir: ''
+run_in_terminal: false
+session_arguments: ''
