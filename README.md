@@ -47,3 +47,6 @@ all others unchecked.
 everything should work correctly now.
 
 if you run into any issue or have any suggestions let me know. 
+
+bakkesmod install loctation should be here
+/home/deck/.var/app/com.usebottles.bottles/data/bottles/bottles/epic/drive_c/users/steamuser/AppData/Roaming/bakkesmod/
